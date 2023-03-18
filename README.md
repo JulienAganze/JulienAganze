@@ -1,7 +1,7 @@
 ![MasterHead](https://image-assets.eu-2.volcanic.cloud/api/v1/assets/images/0081e4d7135fca3a140651e31d0e905c?fallback=true&format=&size=2000x500%23&version=latest&webp_fallback=png)
 
 <h1 align="center">Hi 👋, I'm Julien Aganze</h1>
-<h3 align="center">A passionate Data engineer, scientist and analyst from Poland</h3>
+<h3 align="center">A passionate Data engineer, scientist and analyst living in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aganzejulien&label=Profile%20views&color=0e75b6&style=flat" alt="aganzejulien" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
