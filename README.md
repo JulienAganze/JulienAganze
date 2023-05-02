@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Scraping**
 
-- 💬 Ask me about **Spreadsheet, SQL & Databases, Python Fundamentals & Syntax, Data Manipulation and Visualization with Python, ETL and Data Pipelines, PySpark and SQL Sparkwith Apache Airflow**
+- 💬 Ask me about **Spreadsheet, SQL & Databases, Python Fundamentals & Syntax, Data Manipulation and Visualization with Python, ETL and Data Pipelines, PySpark and SQL Sparkwith Apache Airflow,WebScraping, Git, Linux**
 
 - 📫 How to reach me **aganzejulien2017@gmail.com**
 
