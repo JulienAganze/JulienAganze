@@ -24,7 +24,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JulienAganze&show_icons=true&locale=en&layout=compact" alt="JulienAganze" /></p>  -->
 
-<!--![Anurag's GitHub stats](https://github-readme-stats-julienaganze.vercel.app/api?username=JulienAganze&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats-julienaganze.vercel.app/api?username=JulienAganze&show_icons=true&theme=default)
 
 <!--[![Top Langs](https://github-readme-stats-julienaganze.vercel.app/api/top-langs/?username=JulienAganze&layout=compact)](https://github.com/JulienAganze/github-readme-stats)
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JulienAganze&show_icons=true&locale=en" alt="JulienAganze" /></p> --> 
