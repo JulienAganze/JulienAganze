@@ -35,7 +35,8 @@ I am currently working on EMT-based studies of GIC effects in wind farms and tra
 
 ## 🌐 Connect with me
 
-* Personal website: https://julienaganze.github.io/
+<!---* Personal website: https://julienaganze.github.io/ --->
+
 * LinkedIn: https://www.linkedin.com/in/julien-aganze-51866519b/
 * GitHub: https://github.com/JulienAganze
 
