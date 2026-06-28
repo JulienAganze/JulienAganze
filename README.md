@@ -30,7 +30,7 @@ I am currently working on EMT-based studies of GIC effects in wind farms and tra
 
 ## 📄 Publications
 
-* IEEE publication: [*Add your paper title here once you want to include it*](https://ieeexplore.ieee.org/author/253243773760831)
+* IEEE publication: https://ieeexplore.ieee.org/author/253243773760831
 * Google Scholar: [*Add your Google Scholar profile link when it becomes publicly visible*](https://scholar.google.com/citations?hl=en&user=ARkfg1IAAAAJ)
 
 ## 🌐 Connect with me
